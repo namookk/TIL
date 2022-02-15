@@ -13,8 +13,8 @@ public class Client {
     public static void main(String[] args) {
         Client client = new Client();
         CardService cardService = new CardService();
-        Card shinhanCard = cardService.order("shinhan","1234-1234-1234-1234", 10_000);
-        Card wooriCard = cardService.order("woori", "1234-1234-1234-1234", 20_000);
+        String shinhanCardResult = cardService.order("shinhan","1234-1234-1234-1234", 10_000);
+        String wooriCardResult = cardService.order("woori", "1234-1234-1234-1234", 20_000);
     }
 }
 
@@ -65,7 +65,7 @@ public class Card{
 }
 ```
 
-팩토리 메서드로 구현하기 전 코드를 보시면 CardFactory에서 매개변수 카드타입에 따른 작업이 if문으로 추가되어있습니다.
+팩토리 메서드로 구현하기 전 코드를 보시면 CardService에서 매개변수 카드타입에 따른 작업이 if문으로 추가되어있습니다.
 이렇게 설계되어있으면 결제수단 카드가 확장할때마다 if문을 추가해줘야됩니다. 확장시 기존코드를 변경하니 SOLID원칙중 개방-폐쇄 법칙을 위반하게 됩니다.
 팩토리 메서드패턴을 적용한 코드를 확인해봅시다.
 
