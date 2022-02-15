@@ -21,7 +21,7 @@
 |생성 패턴|구조 패턴|행동 패턴|
 |---|---|---|
 |[Singleton](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Single-Ton.md)|Adapter|Chain of Responsibility|
-|Factory Method|Bridge|Command|
+|[Factory Method](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Factory-Method.md)|Bridge|Command|
 |Abstract Factory|Composite|Interpreter|
 |Builder|Decorator|Iterator|
 |Prototype|Facade|Mediator|
