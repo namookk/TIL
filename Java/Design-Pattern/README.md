@@ -20,7 +20,7 @@
 ### 23가지 패턴 
 |생성 패턴|구조 패턴|행동 패턴|
 |---|---|---|
-|[Singleton](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Single-Ton.md)|Adapter|Chain of Responsibility|
+|[Singleton](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Single-Ton.md)|[Adapter](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Adapter.md)|Chain of Responsibility|
 |[Factory Method](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Factory-Method.md)|Bridge|Command|
 |Abstract Factory|Composite|Interpreter|
 |[Builder](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Builder.md)|Decorator|Iterator|
