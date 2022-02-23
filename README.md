@@ -7,6 +7,7 @@ Today I Learned(TIL)
 + [JVM 구조](https://github.com/namookk/TIL/blob/master/Java/JVM.md)
 + [Stream API](https://github.com/namookk/TIL/blob/master/Java/Stream-API.md)
 + [Record](https://github.com/namookk/TIL/blob/master/Java/Record.md)
++ [Lombok](https://github.com/namookk/TIL/blob/master/Java/Lombok.md)
 
 ### Spring
 + [Spring](https://github.com/namookk/TIL/tree/master/Spring)
