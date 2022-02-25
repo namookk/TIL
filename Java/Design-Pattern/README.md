@@ -25,7 +25,7 @@
 |Abstract Factory|[Composite](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Composite.md)|Interpreter|
 |[Builder](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Builder.md)|[Decorator](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Decorator.md)|Iterator|
 |[Prototype](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Prototype.md)|[Facade](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Facade.md)|Mediator|
-| |Flyweight|Memento|
+| |[Flyweight](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Flyweight.md)|Memento|
 | |Proxy|Observer|
 | | |State|
 | | |Strategy|
