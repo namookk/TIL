@@ -21,7 +21,7 @@
 |생성 패턴|구조 패턴|행동 패턴|
 |---|---|---|
 |[Singleton](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Single-Ton.md)|[Adapter](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Adapter.md)|Chain of Responsibility|
-|[Factory Method](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Factory-Method.md)|Bridge|Command|
+|[Factory Method](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Factory-Method.md)|[Bridge](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Bridge.md)|Command|
 |Abstract Factory|[Composite](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Composite.md)|Interpreter|
 |[Builder](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Builder.md)|[Decorator](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Decorator.md)|Iterator|
 |[Prototype](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Prototype.md)|[Facade](https://github.com/namookk/TIL/blob/master/Java/Design-Pattern/Facade.md)|Mediator|
