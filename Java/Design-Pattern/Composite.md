@@ -5,7 +5,10 @@
 컴포짓 패턴은 구조패턴 중 하나로 클라이언트 입장에서는 '전체'나 '부분'이나 모두 동일한 컴포넌트로 인식할 수 있는 계층구조를 만든다.
 의도는 트리 구조로 작성하여, 부분-전체 관계(Part-Whole Hierarchy)를 표현하는 것입니다.
 
-컴포짓 패턴의 구조는
+컴포짓 패턴의 구조는 아래와 같습니다.
+
+![](https://images.velog.io/images/papakang22/post/7d1ef5ff-d086-4cbb-9d23-62c1e250c772/99E9FF455C84AF1E20.png)
+
 1. Component Interface  
 
     + Leaf클래스와 Composite클래스에 공통 인터페이스를 정의

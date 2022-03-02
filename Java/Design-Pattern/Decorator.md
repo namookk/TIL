@@ -7,7 +7,10 @@
 
 즉, 기본 기능에 추가할 수 있는 기능의 종류가 많은 경우에 각 추가 기능을 Decorator클래스로 정의 한 후 필요한 Decorator 객체를 조합하여 추가 기능의 조합을 설계하는 방식이다.
 
-데코레이터 패턴의 구조는 
+데코레이터 패턴의 구조는 아래와 같습니다.
+
+![](https://images.velog.io/images/papakang22/post/f0d5ec49-6007-4e66-bf05-3b1fb43d1910/99C6E44E5BD86CE428.png)
+
 1. Component
     + 기본 기능과 추가기능의 공통 기능을 정의하는 인터페이스
     + 클라이언트는 Component를 통해 실제 객체를 사용함
