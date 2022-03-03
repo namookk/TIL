@@ -7,6 +7,9 @@
 추상팩토리 패턴을 사용하면 구체적으로 어떤 클래스의 인스턴스를 사용하는지 클라이언트에게 감출 수 있습니다.
 
 추상팩토리 패턴의 다이어그램은 아래와 같습니다.
+
+![](https://images.velog.io/images/papakang22/post/8d89a240-2f3e-40e9-994e-4ab72ebad7d7/abstract-factory-pattern.png)
+
 + AbstractFactory
   + 실제 팩토리 클래스의 공통 인터페이스
 + ConcreteFactory
@@ -122,6 +125,7 @@ public class Client {
   }
 }
 ```
+
 새로운 부품으로 만든 인스턴스가 추가되어도 의존성만 잘 주입한다면 createShip메서드를 수정없이 사용 가능합니다.
 
 ### 팩토리메서드 패턴과 추상팩토리 패턴의 공통점과 차이점
