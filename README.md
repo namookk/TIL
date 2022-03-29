@@ -9,7 +9,7 @@ Today I Learned(TIL)
 + [Record](https://github.com/namookk/TIL/blob/master/Java/Record.md)
 + [Lombok](https://github.com/namookk/TIL/blob/master/Java/Lombok.md)
 + [MapStruct](https://github.com/namookk/TIL/blob/master/Java/MapStruct.md)
-
++ [Functional Interface](https://github.com/namookk/TIL/blob/master/Java/Functional-Interface.md)
 ### Spring
 + [Spring](https://github.com/namookk/TIL/tree/master/Spring)
 
